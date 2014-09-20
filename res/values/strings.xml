@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Simple strings. -->
+    <string name="dragrace">DragRace App</string>
+    <string name="stage">Stage</string>
+    <string name="go">Go</string>
+
+    <!-- This is a complex string containing style runs. -->
+    <string name="main_label">Christmas Tree App</string>
+    <string name="pro_label">Pro Tree</string>
+    <string name="rt_format">Reaction Time: %.3f</string>
+    <string name="get_ready_msg">Get Ready!</string>
+</resources>
+
